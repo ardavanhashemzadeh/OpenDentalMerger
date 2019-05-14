@@ -1,6 +1,7 @@
 Important:
 * Duplicate identification
 * FK references
+* Audit trail
 
 # Read from DB
 Start
